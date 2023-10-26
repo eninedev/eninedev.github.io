@@ -1,4 +1,4 @@
-# [Employee Handbook](handbook/index.md) • Professional Appearance
+# [Employee Handbook](index.md) • Professional Appearance
 
 ## Purpose
 
