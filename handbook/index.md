@@ -1,0 +1,27 @@
+# Employee Handbook
+
+👋 Aloha!
+
+This handbook describes our expectations of you, our employee, as well as the policies, programs, and benefits available to you.
+
+Becoming familiar with this handbook will answer many questions about employment at 1E9 Advisors.
+
+Professional relationships are easier when there is a shared understanding of the culture and the values of the organization. This guide offers insight into our vision for 1E9 Advisors which will help you develop the shared relationship we are seeking.
+
+## Table of Contents
+
+1. [Employment](employment/index.md)
+    * [Employment Agreement](employment/agreement.md)
+    * [Terms of Employment](employment/terms.md)
+    * [Employee Documents](employment/documents.md)
+    * [Background Verification](employment/verification.md)
+    * [New Employee Orientation](employment/orientation.md)
+    * [Probation](employment/probation.md)
+1. [Working Hours](working-hours.md)
+1. [Leave Policy](leave/index.md)
+    * [Summary](leave/summmary.md)
+    * [Official Holidays](leave/official-holidays.md)
+    * [Earned Leave](leave/earned-leave.md)
+    * [Sick Leave](leave/sick-leave.md)
+1. [Equal Opportunity](equal-opportunity.md)
+1. [Professional Appearance](appearance.md)
