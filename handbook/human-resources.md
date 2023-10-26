@@ -17,7 +17,7 @@ These policies apply to all employees.
 
 1.1. All employees are required to sign an Employment Agreement within their first payroll cycle.
 
-## Background Verification
+## 2. Background Verification
 
 2.1. All academic credentials provided will be verified
 
