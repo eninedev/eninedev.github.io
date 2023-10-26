@@ -10,9 +10,7 @@ Professional relationships are easier when there is a shared understanding of th
 
 ## Table of Contents
 
-* [General Employment](general.md)
+* [General](general.md)
 * [Human Resources](human-resources.md)
-* [Compensation and Benefits](compensation.md)
-  * [Leave Policy](leave-policy.md)
+* [Leave Policy](leave-policy.md)
 * [Professional Appearance](appearance.md)
-* [Information Security](infosec.md)
