@@ -2,7 +2,7 @@
 
 ## [Chapter 1. Employment](index.md)
 
-### Section 1.3. Documents
+### Section 1.4. Documents
 
 1. New employees must submit the following documents before their first day and no later than the first day of employment
 
