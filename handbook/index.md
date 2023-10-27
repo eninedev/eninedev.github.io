@@ -19,7 +19,7 @@ Professional relationships are easier when there is a shared understanding of th
     * [Probation](employment/probation.md)
 1. [Working Hours](working-hours.md)
 1. [Leave Policy](leave/index.md)
-    * [Summary](leave/summmary.md)
+    * [Summary](leave/summary.md)
     * [Official Holidays](leave/official-holidays.md)
     * [Earned Leave](leave/earned-leave.md)
     * [Sick Leave](leave/sick-leave.md)
