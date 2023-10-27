@@ -1,4 +1,8 @@
-# [Employee Handbook](index.md) • Terms of Employment
+# [Employee Handbook](../index.md)
+
+## [Chapter 1. Employment](index.md)
+
+### Section 1.2. Terms of Employment
 
 1. The terms of your employment are as per the details contained in your Employment Agreement. 
 
