@@ -1,6 +1,6 @@
 # [Employee Handbook](../index.md)
 
-## Chapter 1. [Employment](index.md)
+## [Chapter 1. Employment](index.md)
 
 ### Section 1.1. Employment Agreement
 
