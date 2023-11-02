@@ -2,17 +2,17 @@
 
 ## Software Development Methodology
 
-* Project
-  * Understand the problem
+* [Project](#project)
+  * [Understand the problem](#understand-the-problem)
   * Design a solution
   * Architect the system
   * Breakdown into separate apps
   * Engineer the data model and processes for each app
   * For each app:
     * Create the data model
-    * Stub the workflow
-    * Assign tasks
-* App
+    * [Stub the workflow](#stub-the-workflow)
+    * [Assign tasks](#assign-tasks)
+* [App](#app)
     * Populate fixtures with static data
     * Generate random data.
     * Test process flow without method actions stubs.    

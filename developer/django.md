@@ -19,15 +19,6 @@ App settings are defined at the application level.
 
 These are settings that are unique to the app and are not shared settings. 
 
-``` python
-from django.conf import settings
-
-S3_PREFIX = os.getenv(
-  "S3_PREFIX", 
-  getattr(settings, "S3_PREFIX", None)
-)
-```
-
 Using app settings
 
 ```python
@@ -42,13 +33,40 @@ for setting in setting_objects:
   print(f"{setting}: {getattr(app_settings, setting, None)}")
 ```
 
-:top: [Top](#django-style-guide)
+### Project-first
+
+Settings like `DATA_DIR` should be led by the project when available.
+
+``` python
+from django.conf import settings
+
+S3_PREFIX = getattr(
+  settings,
+  "S3_PREFIX", 
+  os.getenv("S3_PREFIX", None)
+)
+```
+
+### App-first
+
+Settings that are uniquely app-first should use project settings if and only if app settings are unavailable.
+
+``` python
+from django.conf import settings
+
+S3_PREFIX = os.getenv(
+  "S3_PREFIX", 
+  getattr(settings, "S3_PREFIX", None)
+)
+```
+
+[Top](#django-style-guide)
 
 ## Models
 
 Django Models should be used to represent data - static and generated.
 
-:top: [Top](#django-style-guide)
+[Top](#django-style-guide)
 
 ### QuxModel
 
@@ -81,11 +99,11 @@ Django offers [four opportunities](https://docs.djangoproject.com/en/4.2/ref/mod
 
 QuxModel offers a builtin mechanism for automatically adding a unique slug to every instance. This is useful when objects are directly exposed to the user and is a preferred way of referencing objects without revealing information about the number of objects or the order of objects.
 
-:top: [Top](#django-style-guide)
+[Top](#django-style-guide)
 
 ## API
 
-:top: [Top](#django-style-guide)
+[Top](#django-style-guide)
 
 ### Naming Convention
 
@@ -96,7 +114,7 @@ Examples:
 * `MyModelCreateView`, and 
 * `MyModelLiveModeView`
 
-:top: [Top](#django-style-guide)
+[Top](#django-style-guide)
 
 ### Class-based vs Function-based
 
@@ -106,5 +124,5 @@ Class-based views are very easy to deploy for simple things because both Django 
 
 Class-based views create a namespace where you can nest things like attributes and methods.
 
-:top: [Top](#django-style-guide)
+[Top](#django-style-guide)
 
