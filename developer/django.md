@@ -19,9 +19,36 @@ App settings are defined at the application level.
 
 These are settings that are unique to the app and are not shared settings. 
 
+``` python
+from django.conf import settings
+
+S3_PREFIX = os.getenv(
+  "S3_PREFIX", 
+  getattr(settings, "S3_PREFIX", None)
+)
+```
+
+Using app settings
+
+```python
+from django.conf import settings
+from . import settings as app_settings
+```
+
+Sample script to see what is defined in app_settings
+```python
+setting_objects = [x for x in dir(app_settings) if not x.startswith("_")]
+for setting in setting_objects:
+  print(f"{setting}: {getattr(app_settings, setting, None)}")
+```
+
+:top: [Top](#django-style-guide)
+
 ## Models
 
 Django Models should be used to represent data - static and generated.
+
+:top: [Top](#django-style-guide)
 
 ### QuxModel
 
@@ -54,7 +81,11 @@ Django offers [four opportunities](https://docs.djangoproject.com/en/4.2/ref/mod
 
 QuxModel offers a builtin mechanism for automatically adding a unique slug to every instance. This is useful when objects are directly exposed to the user and is a preferred way of referencing objects without revealing information about the number of objects or the order of objects.
 
+:top: [Top](#django-style-guide)
+
 ## API
+
+:top: [Top](#django-style-guide)
 
 ### Naming Convention
 
@@ -65,6 +96,8 @@ Examples:
 * `MyModelCreateView`, and 
 * `MyModelLiveModeView`
 
+:top: [Top](#django-style-guide)
+
 ### Class-based vs Function-based
 
 We prefer class-based API Views.
@@ -72,4 +105,6 @@ We prefer class-based API Views.
 Class-based views are very easy to deploy for simple things because both Django and DRF have already done a lot of the heavy lifting.
 
 Class-based views create a namespace where you can nest things like attributes and methods.
+
+:top: [Top](#django-style-guide)
 
