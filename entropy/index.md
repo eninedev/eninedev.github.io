@@ -20,17 +20,17 @@ Entropy is a rigorous and exclusive training program from [1E9 Advisors](https:/
 
 ## About
 
+**What**<br>
+8 hours per day x 5 days per week x 24 weeks, without exception.
+
 **Where**<br>
 On premises in Aundh, Pune
 
 **When**<br>
-8 hours per day x 5 days per week x 24 weeks, without exception.
+Cohort 1 will commence on December 11, 2023
 
 **Who**<br>
 Open application process
-
-**When**<br>
-Cohort 1 will commence on December 11, 2023
 
 **How**<br>
 In-person ONLY
@@ -40,13 +40,13 @@ All trainees receive a stipend for the duration of the training.
 
 ## Honor Code
 
-> [!important]
-> I will neither give nor receive assistance while completing assignments. My work is my own in its entirety.<br>
+> I will neither give nor receive assistance while completing assignments.<br>
+> My work is my own in its entirety.<br>
 > I will not lie, cheat, or steal.<br>
 > I will not tolerate those who violate the Honor Code.
 
-> [!warning]
-> A Trainee who is found to have violated the Honor Code will be terminated immediately.
+⛔ WARNING<br>
+A Trainee who is found to have violated the Honor Code will be terminated immediately.
 
 ### Three rules of thumb
 
@@ -60,8 +60,8 @@ All trainees receive a stipend for the duration of the training.
 
 Email your Statement of Purpose to fresher@enine.dev.
 
-> [!warning]
-> Statements of Purpose found to be written using ChatGPT or other LLMs will invalidate the application.
+⛔ WARNING<br>
+Statements of Purpose found to be written using ChatGPT or other LLMs will invalidate the application.
 
 ### Video Interview
 
@@ -71,16 +71,15 @@ Applications with Statements of Purpose selected by the team will be invited to 
 
 Applications who pass the video interview process will be asked to take an Aptitude Test.
 
-> [!important]
-> The test is important at 1E9 Advisors and failure to meet the minimum requirements will result in automatic disqualifaction for entry to the Program.
-> Exceptions are at the sole discretion of 1E9 Advisors.
+ℹ️ IMPORTANT<br>
+The test is important at 1E9 Advisors and failure to meet the minimum requirements will result in automatic disqualifaction for entry to the Program. Exceptions are at the sole discretion of 1E9 Advisors.
 
 ### Interview
 
 Applicants who pass the aptitude test will be invited to an in-person interview at our offices in Pune.
 
-> [!important]
-> All interviews must be in-person only.
+ℹ️ IMPORTANT<br>
+All interviews must be in-person only.
 
 ### Offer Letter
 
@@ -108,8 +107,8 @@ The trainees will be assessed weekly on several factors including:
 - Attention to detail
 - Completion of tasks and correctness of completed tasks
 
-> [!important]
-> Trainees failing this Course will be removed from the program.
+⛔ WARNING<br>
+Trainees failing this Course will be removed from the program.
 
 ### Software Engineering Course (12 Weeks)
 
