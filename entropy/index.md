@@ -58,7 +58,7 @@ A Trainee who is found to have violated the Honor Code will be terminated immedi
 
 ### Statement of Purpose
 
-Email your Statement of Purpose to fresher@enine.dev.
+Email your Statement of Purpose to freshers@enine.dev.
 
 ⛔ WARNING<br>
 Statements of Purpose found to be written using ChatGPT or other LLMs will invalidate the application.
