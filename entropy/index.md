@@ -56,9 +56,15 @@ A Trainee who is found to have violated the Honor Code will be terminated immedi
 
 ## Application
 
+1. Email your Statement of Purpose to entropy@enine.dev
+2. Click on https://eninejobs.com/x/entropy to apply
+3. Take the aptitude test
+4. Interview
+5. Offer Letter
+
 ### Statement of Purpose
 
-Email your Statement of Purpose to fresher@enine.dev.
+Email your Statement of Purpose to entropy@enine.dev.
 
 ⛔ WARNING<br>
 Statements of Purpose found to be written using ChatGPT or other LLMs will invalidate the application.
@@ -67,7 +73,9 @@ Statements of Purpose found to be written using ChatGPT or other LLMs will inval
 
 Applications with Statements of Purpose selected by the team will be invited to answer a few questions on video.
 
-### Aptitute Test
+Click on [https://eninejobs.com/x/entropy](https://eninejobs.com/x/entropy) to apply
+
+### Aptitude Test
 
 Applications who pass the video interview process will be asked to take an Aptitude Test.
 
