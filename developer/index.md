@@ -5,6 +5,7 @@
 * [Django Style Guide](django.md)
 
 **Tools**
+* [Linux](linux.md)
 * [Github](github.md)
 * [VSCode](vscode.md)
 
