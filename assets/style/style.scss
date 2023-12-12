@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-primer";
 
 code {
     font-size: .875em;
@@ -9,8 +9,8 @@ code {
     word-wrap: break-word;
 }
 .row {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 .row>* {
   flex-shrink: 0;
@@ -21,9 +21,10 @@ code {
   flex: 0 0 auto;
   width: 100%;
 }
-@media (min-width: 768px)
-.row-cols-md-4>* {
+@media (min-width: 768px) {
+  .row-cols-md-4>* {
     flex: 0 0 auto;
     width: 25%;
+  }
 }
 
