@@ -12,14 +12,21 @@ Entropy demands that trainees understand, acknowledge, and act on the principle 
 
 ### Table of Contents
 
+* [Directory](#directory)
 * [Daily Schedule](#daily-schedule)
 * [Faculty](#faculty)
 * [Assessments](#assessments)
 * [Assignments](#assignments)
-* [Weekly Check-in with Head of Program](#weekly-checkin-with-head-of-program)
+* [Weekly Check-in with Head of Program](#weekly-check-in-with-program-head)
 * [Mentoring](#mentoring)
 * [Attendance & Punctuality](#attendance-and-punctuality)
   * [Notification](#notification)
+
+## Directory
+
+- Vishal Apte: MD & CEO
+- Shumu Gupta: Program Head
+- Sakshi Sharma: Program Coordinator
 
 ## Daily Schedule
 
@@ -49,14 +56,12 @@ Low scores on Assessments may be grounds for removal from the program.
 
 ## Assignments
 
-There will be two assignments per day, on average. All assignments will have a cut off date. Assignments must be submitted on or 
-before the cut off date. It is important to coordinate with the Program Head as soon as there is failure to understand or 
-complete the assignment. 
+There will be two assignments per day, on average. All assignments will have a cut off date. Assignments must be submitted on or before the cut off date. It is important to coordinate with the Program Head as soon as there is failure to understand or complete the assignment. 
 
 ⛔ WARNING<br>
 Missed assignment submissions may be grounds for removal from the program.
 
-## Weekly Checkin with Head of Program
+## Weekly Check-in with Program Head
 
 Trainees are responsible for scheduling 30 minutes with the Program Head every week. These meetings are an opportunity for us to assess the Trainees' performance and provide feedback and an opportunity for the Trainee to ask questions in regular one on one interactions with the Program Head. Trainees will schedule these meetings to be either from 12pm to 2pm or 4pm to 6pm during the week.
 
@@ -70,8 +75,7 @@ Every Trainee will be assigned a mentor. Mentors are full time employees of 1E9 
 Trainees are responsible for scheduling 30 minutes to meet their mentor every week.
 
 ⛔ WARNING<br>
-Failure to schedule a weekly meeting with the mentor and/or attend the meeting are grounds for dismissal and
-may result in disciplinary action including removal from the program.
+Failure to schedule a weekly meeting with the mentor and/or attend the meeting are grounds for dismissal and may result in disciplinary action including removal from the program.
 
 ## Attendance and Punctuality
 
