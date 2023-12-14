@@ -10,8 +10,8 @@
 * [VSCode](vscode.md)
 
 **Code & Analysis**
-* [Black](https://github.com/psf/black)
-* [PyLint](https://www.pylint.org/)
+* [Black](black)
+* [PyLint](pylint)
 * [Flake](https://flake8.pycqa.org/)
 
 **Standards**
