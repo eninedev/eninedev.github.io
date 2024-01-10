@@ -38,8 +38,7 @@ Everyone is welcome to apply. Applicants who accept admission **MUST**:
 In-person ONLY
 
 **Cost**<br>
-FREE for the first 4 weeks<br>
-FEE for the remaining 8 weeks is under review
+🎉 We are running a special price for Cohort 2 and offering it for FREE for the full 12 weeks.
 
 **Employment**<br>
 Students completing the program successfully will be _eligible_ to receive employment offers with a starting annual CTC of **INR 7,50,000**.

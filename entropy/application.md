@@ -18,7 +18,7 @@ Application forms are available.
 
 ### Monday, March 11, 2024
 
-Candidates may schedule personal interviews in any of Delhi, Kolkata, and Bengaluru.
+Last week to schedule in-person interviews.
 
 Interview appointments are subject to availability and are not guaranteed.
 
@@ -35,7 +35,7 @@ Spring 2024 Cohort commences.
 ### 1. Application Forms
 
 Register to be notified when applications open and for other information 
-by visiting https://enine.school/ 
+by visiting https://enine.school/apply
 
 ### 2. Technical Assessment
 
@@ -45,7 +45,7 @@ The [syllabus](#syllabus) is the basis for the technical assessment. Questions a
 
 #### Assessment
 
-The assessment begins with activation of your application at https://enine.school/application/
+The assessment begins with activation of your application at https://enine.school/apply
 
 > Applicants will have one opportunity **ONLY** to take the application assessment.
 > 
@@ -55,7 +55,7 @@ The assessment is a **30 minute** test of your knowledge of Python.
 
 You will be required to write code in Python.
 
-The assessment comprises a total of **45** problems. 
+The assessment comprises a total of **30** problems. 
 
 ### 3. In-person Assessment
 
@@ -99,7 +99,6 @@ Applicants who are waitlisted will be notified of their acceptance status by ema
   - `json`
   - `random`
   - `os`
-
 
 ---
 
