@@ -1,6 +1,6 @@
 # [Employee Handbook](index.md) 
 
-## Chapter 5. Professional Appearance
+## Chapter 4. Professional Appearance
 
 1. The Company maintains a business casual working environment. 
 
