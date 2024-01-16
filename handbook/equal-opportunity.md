@@ -1,6 +1,6 @@
 # [Employee Handbook](index.md)
 
-## Chapter 4. Equal Opportunity
+## Chapter 5. Equal Opportunity
 
 1. 1E9 Advisors provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to caste, creed, religion, gender, identity, expression, origin, nationality, age, disability, marital status, sexual orientation, economic status, race, or any other personal characteristic, in any manner.
 
