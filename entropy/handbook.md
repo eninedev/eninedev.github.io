@@ -8,25 +8,34 @@ Entropy demands that trainees understand, acknowledge, and act on the principle 
 
 1E9 Advisors is not responsible for trainees who do not learn, do not practice, or otherwise behave in a manner unbecoming of the values of the company.
 
-1E9 Advisors reserves the right to remove trainees from the program in all such instances.
+1E9 Advisors reserves the right to remove trainees from the program at any time for any reason.
 
-### Table of Contents
+## Table of Contents
 
-* [Directory](#directory)
+* [Attendance & Punctuality](#attendance-and-punctuality)
+* [Notification](#notification)
 * [Daily Schedule](#daily-schedule)
 * [Faculty](#faculty)
-* [Assessments](#assessments)
 * [Assignments](#assignments)
-* [Weekly Check-in with Head of Program](#weekly-check-in-with-program-head)
+* [Assessments](#assessments)
 * [Mentoring](#mentoring)
-* [Attendance & Punctuality](#attendance-and-punctuality)
-  * [Notification](#notification)
+* [Weekly Check-in with Head of Program](#weekly-check-in-with-program-head)
 
-## Directory
+## Attendance and Punctuality
 
-- Vishal Apte: MD & CEO
-- Shumu Gupta: Program Head
-- Sakshi Sharma: Program Coordinator
+> Early is on time. On time is late. Late is unacceptable.
+
+We expect all trainees to be in class 5 minutes before a session begins.
+
+⛔️ _1E9 reserves the right to withdraw admission from any student who is late in arrival to class and other meetings._
+
+## Notification
+
+All trainees are expected to be responsible for their own time and communication and notify the Head of Program if they are unable to attend class
+- Before 6a of the day off in the event of an illness
+- As soon as possible in the event of an unforeseen accident
+
+⛔ _1E9 reserves the right to withdraw admission from any student who fails to notify on time or in the appropriate manner._
 
 ## Daily Schedule
 
@@ -43,30 +52,28 @@ Entropy demands that trainees understand, acknowledge, and act on the principle 
 
 Faculty at Entropy include employees at 1E9 Advisors as well as industry experts with as much as 50 years of experience in math and computer science.
 
-## Assessments
-
-Assessments will be administered no less than once a week and no more than twice a week.
-
-1E9 Advisors reserves the right to determine the manner in which every Assessment may be administered 
-- offline and require only pencil and paper or
-- online via a programming environment to be provided by the Program.
-
-⛔ WARNING<br>
-Low scores on Assessments may be grounds for removal from the program.
-
 ## Assignments
 
 There will be two assignments per day, on average. All assignments will have a cut off date. Assignments must be submitted on or before the cut off date. It is important to coordinate with the Program Head as soon as there is failure to understand or complete the assignment. 
 
-⛔ WARNING<br>
-Missed assignment submissions may be grounds for removal from the program.
+⛔ _1E9 reserves the right to withdraw admission from any student who fails to submit assignment submissions on time._
 
-## Weekly Check-in with Program Head
+## Assessments
 
-Trainees are responsible for scheduling 30 minutes with the Program Head every week. These meetings are an opportunity for us to assess the Trainees' performance and provide feedback and an opportunity for the Trainee to ask questions in regular one on one interactions with the Program Head. Trainees will schedule these meetings to be either from 12pm to 2pm or 4pm to 6pm during the week.
+Assessments will be administered at least once a week and no more than twice a week.
 
-⛔ WARNING<br>
-Failure to schedule a weekly meeting with the mentor and/or attend the meeting are grounds for dismissal and may result in disciplinary action including removal from the program.
+_enine.school_ reserves the right to determine the manner in which every Assessment may be administered 
+- offline and require only pencil and paper or
+- online via a programming environment to be provided by the Program.
+
+In addition to technical assessments, students are also assessed weekly on several factors including:
+- Adherence to processes
+- Attention to detail
+- Ability to work independently
+- Ability to work in a team
+- Completion of tasks and correctness of completed tasks
+
+⛔ _1E9 reserves the right to withdraw admission from any student in the program for failing to satisfy all assessment criteria._
 
 ## Mentoring
 
@@ -74,23 +81,16 @@ Every Trainee will be assigned a mentor. Mentors are full time employees of 1E9 
 
 Trainees are responsible for scheduling 30 minutes to meet their mentor every week.
 
-⛔ WARNING<br>
-Failure to schedule a weekly meeting with the mentor and/or attend the meeting are grounds for dismissal and may result in disciplinary action including removal from the program.
+⛔ _1E9 reserves the right to withdraw admission from any student who fails to schedule a weekly meeting with the mentor and/or attend the meeting._
 
-## Attendance and Punctuality
+## Weekly Check-in with Program Head
 
-> Early is on time. On time is late. Late is unacceptable.
+Trainees are responsible for scheduling 30 minutes with the Program Head every week. These meetings are an opportunity for us to assess the Trainees' performance and provide feedback and an opportunity for the Trainee to ask questions in regular one on one interactions with the Program Head. Trainees will schedule these meetings to be either from 12pm to 2pm or 4pm to 6pm during the week.
 
-We expect all trainees to be in class 5 minutes before a session begins.
+⛔ _1E9 reserves the right to withdraw admission from any student who fails to schedule a weekly meeting with the mentor and/or attend the meeting are grounds for dismissal._
 
-⛔ WARNING<br>
-Late arrival to class and other meetings will be recorded and result in disciplinary action including removal from the program
+---
 
-### Notification
+_1E9 reserves the right to withdraw admission from any student in the program at any time and for any reason._
 
-All trainees are expected to be responsible for their own time and communication and notify the Head of Program if they are unable to attend class
-- Before 6a of the day off in the event of an illness
-- As soon as possible in the event of an unforeseen accident
-
-⛔ WARNING<br>
-Failure to notify on time or in the appropriate manner may result in disciplinary action including removal from the program
+_1E9 does not guarantee an offer of employment. The company reserves the right to offer employment to any student at its sole discretion._
