@@ -12,7 +12,7 @@
 
 Pre-registration for the Spring 2024 Cohort opens.
 
-### Friday, January 26, 2024
+### Thursday, February 1, 2024
 
 Application forms are available.
 
@@ -35,17 +35,11 @@ Spring 2024 Cohort commences.
 ### 1. Application Forms
 
 Register to be notified when applications open and for other information 
-by visiting https://enine.school/apply
+by visiting [enine.school](https://enine.school/)
 
 ### 2. Technical Assessment
 
-#### Syllabus
-
-The [syllabus](#syllabus) is the basis for the technical assessment. Questions asked will be from this syllabus only. 
-
-#### Assessment
-
-The assessment begins with activation of your application at https://enine.school/apply
+The assessment begins with activation of your application at [enine.school/apply/](https://enine.school/apply)
 
 > Applicants will have one opportunity **ONLY** to take the application assessment.
 > 
@@ -61,7 +55,7 @@ The assessment comprises a total of **30** problems.
 
 All interviews are in-person and are carried out in our offices in Pune.
 
-We will be also offering interview slots for one day in each of Delhi, Kolkata, and Bengaluru during the week of March 11-15, 2024.
+We may offer interview slots in one or more additional cities, in addition to Pune, during the week of March 11-15, 2024, subject to a minimum number of qualified participants identified before February 29, 2023.
 
 > Applicants who do not schedule and/or attend an in-person interview will be ineligible for admission to Entropy and may be disqualified from any and all future applications to Entropy or 1E9 Advisors.
 
@@ -102,6 +96,6 @@ Applicants who are waitlisted will be notified of their acceptance status by ema
 
 ---
 
-_1E9 reserves the right to withdraw admission from any student in the program at any time and for any reason._
+_1E9 reserves the right to withdraw admission from any student and terminate participation by any student in the program at any time and for any reason._
 
 _1E9 does not guarantee an offer of employment. The company reserves the right to offer employment to any student at its sole discretion._

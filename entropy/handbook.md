@@ -27,7 +27,7 @@ Entropy demands that trainees understand, acknowledge, and act on the principle 
 
 We expect all trainees to be in class 5 minutes before a session begins.
 
-⛔️ _1E9 reserves the right to withdraw admission from any student who is late in arrival to class and other meetings._
+⛔️ _1E9 reserves the right to withdraw admission from any student and terminate participation by any student in the program who is late in arrival to class and any other meetings._
 
 ## Notification
 
@@ -35,7 +35,7 @@ All trainees are expected to be responsible for their own time and communication
 - Before 6a of the day off in the event of an illness
 - As soon as possible in the event of an unforeseen accident
 
-⛔ _1E9 reserves the right to withdraw admission from any student who fails to notify on time or in the appropriate manner._
+⛔ _1E9 reserves the right to withdraw admission from any student and terminate participation by any student in the program who fails to notify on time or in the appropriate manner._
 
 ## Daily Schedule
 
@@ -56,7 +56,7 @@ Faculty at Entropy include employees at 1E9 Advisors as well as industry experts
 
 There will be two assignments per day, on average. All assignments will have a cut off date. Assignments must be submitted on or before the cut off date. It is important to coordinate with the Program Head as soon as there is failure to understand or complete the assignment. 
 
-⛔ _1E9 reserves the right to withdraw admission from any student who fails to submit assignment submissions on time._
+⛔ _1E9 reserves the right to withdraw admission from any student and terminate participation by any student in the program who fails to submit assignment submissions on time._
 
 ## Assessments
 
@@ -73,7 +73,8 @@ In addition to technical assessments, students are also assessed weekly on sever
 - Ability to work in a team
 - Completion of tasks and correctness of completed tasks
 
-⛔ _1E9 reserves the right to withdraw admission from any student in the program for failing to satisfy all assessment criteria._
+⛔ _1E9 reserves the right to withdraw admission from any student and terminate participation by any student in the program for failing to satisfy all assessment criteria._
+
 
 ## Mentoring
 
@@ -81,16 +82,16 @@ Every Trainee will be assigned a mentor. Mentors are full time employees of 1E9 
 
 Trainees are responsible for scheduling 30 minutes to meet their mentor every week.
 
-⛔ _1E9 reserves the right to withdraw admission from any student who fails to schedule a weekly meeting with the mentor and/or attend the meeting._
+⛔ _1E9 reserves the right to withdraw admission from any student and terminate participation by any student in the program who fails to schedule a weekly meeting with the mentor and/or attend the meeting._
 
 ## Weekly Check-in with Program Head
 
 Trainees are responsible for scheduling 30 minutes with the Program Head every week. These meetings are an opportunity for us to assess the Trainees' performance and provide feedback and an opportunity for the Trainee to ask questions in regular one on one interactions with the Program Head. Trainees will schedule these meetings to be either from 12pm to 2pm or 4pm to 6pm during the week.
 
-⛔ _1E9 reserves the right to withdraw admission from any student who fails to schedule a weekly meeting with the mentor and/or attend the meeting are grounds for dismissal._
+⛔ _1E9 reserves the right to withdraw admission from any student and terminate participation by any student in the program who fails to schedule a weekly meeting with the Program Head and/or attend the meeting are grounds for dismissal._
 
 ---
 
-_1E9 reserves the right to withdraw admission from any student in the program at any time and for any reason._
+_1E9 reserves the right to withdraw admission from any student and terminate participation by any student in the program at any time and for any reason._
 
 _1E9 does not guarantee an offer of employment. The company reserves the right to offer employment to any student at its sole discretion._
