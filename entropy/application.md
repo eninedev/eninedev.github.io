@@ -16,17 +16,17 @@ Pre-registration for the Spring 2024 Cohort opens.
 
 Application forms are available.
 
-### Monday, March 11, 2024
+### Monday, March 25, 2024
 
 Last week to schedule in-person interviews.
 
 Interview appointments are subject to availability and are not guaranteed.
 
-### Monday, March 18, 2024
+### Monday, April 1, 2024
 
 Admissions Letters are mailed.
 
-### Monday, April 1, 2024
+### Monday, April 15, 2024
 
 Spring 2024 Cohort commences.
 
