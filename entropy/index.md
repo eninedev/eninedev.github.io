@@ -23,7 +23,7 @@ Entropy is a rigorous and exclusive training program from enine.school ([1E9 Adv
 Aundh, Pune
 
 **When**<br>
-The Spring 2024 Cohort will commence on Monday, April 1, 2024.
+The Spring 2024 Cohort will commence on Monday, April 15, 2024.
 
 **Who**<br>
 Everyone is welcome to apply. Applicants who accept admission **MUST**:
