@@ -1,0 +1,88 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+a:hover {
+  text-decoration: none !important;
+}
+
+/* Header */
+.markdown-body h1:first-of-type {
+  font-size: 1.25em !important;
+  padding-bottom: 0.75em !important;
+}
+
+/* Table */
+.markdown-body table {
+  display: table !important;
+  width: 100% !important;
+  min-width: 600px;
+  border-collapse: collapse;
+  font-family: -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif;
+  font-feature-settings: "tnum";
+  font-size: 0.875rem;
+}
+.markdown-body table th, .markdown-body table td {
+  padding: 4px 8px;
+  border-width: 1px 0;
+  text-align: left;
+  vertical-align: top;
+}
+.markdown-body table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+@media (max-width: 768px) {
+  .markdown-body table {
+    display: block;
+    min-width: unset;
+  }
+  .markdown-body table th, .markdown-body table td {
+    padding: 4px;
+  }
+}
+
+/* List */
+.markdown-body ul {
+  padding-left: 1em;
+}
+.markdown-body ul {
+  list-style: square;
+}
+.markdown-body ul ul {
+  list-style: disc;
+}
+.markdown-body ul ul ul {
+  list-style: circle;
+}
+.markdown-body li>p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+code {
+    font-size: .875em;
+    color: rgb(214, 51, 132);
+    word-wrap: break-word;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.row>* {
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
+}
+.row-cols-1 {
+  flex: 0 0 auto;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .row-cols-md-4>* {
+    flex: 0 0 auto;
+    width: 25%;
+  }
+}
+
