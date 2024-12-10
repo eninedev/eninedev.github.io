@@ -1,2 +1,9 @@
+# theme: minima
 title: 1E9 Advisors
 description: Think Big. Do More.
+include_custom_head: true
+exclude:
+  - .git
+author:
+  - name: Vishal Apte
+  - email: vishal@enine.dev

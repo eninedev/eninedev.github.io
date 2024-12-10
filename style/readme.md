@@ -1,4 +1,8 @@
-# Style Guides
+## Style Guides
 
-1. [Excel](excel.md)
+### Table of Contents
+
+- [UI (HTML + CSS + Bootstrap 5.x)](ui.md)<br>
+- [Excel](excel.md)<br>
+
 

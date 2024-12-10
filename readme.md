@@ -1,7 +1,7 @@
 **Table of Contents**
 
-1. [Employee Handbook](handbook/)
-2. [Developer Handbook](developer/)
-3. [Style Guides](style/)
-   - [Excel](style/excel.html)
-
+- [Employee Handbook](handbook/)<br>
+- [Developer Handbook](developer/)<br>
+- [Style Guides](style/)
+  - [UI (HTML)](style/ui.html)
+  - [Excel](style/excel.html)

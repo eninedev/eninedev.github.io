@@ -60,6 +60,9 @@ a:hover {
   margin-top: 0;
   margin-bottom: 0;
 }
+.markdown-body li>ul, .markdown-body li>ol {
+  margin-top: 0.25em;
+}
 
 code {
     font-size: .875em;

@@ -1,1 +1,41 @@
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories and files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
+
+# Ignore dependencies
+node_modules/
+bower_components/
+vendor/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+*.lock
+
+# Ignore backup files
+*.bak
+*.old
+*~ 
+*.orig
+
+# Ignore personal IDE/Editor settings
 .idea/
+.vscode/
+*.code-workspace
+
+# Ignore Ruby-specific temp files
+*.gem
+.bundle/
+.yardoc/
+.rvmrc
+.env
+
+# Keep Gemfile and Gemfile.lock (don't ignore these)
+

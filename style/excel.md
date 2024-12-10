@@ -1,6 +1,6 @@
-# Style Guide for Excel 
+## 1E9 Style Guide for Excel 
 
-## Organization
+### Organization
 
 Organize the Report into Sections [Tabs].
 
@@ -8,24 +8,24 @@ Aggregation tabs should always have the same set of rows and in the same place a
 
 Detailed information should be on separate tabs; row headings may vary on a case by case basis for detailed information
 
-## Fonts
+### Fonts
 
 Always use `Arial` in `10pt`
 
-## Cell Size
+### Cell Size
 
 - Row Width: 20 pixels
 - Column Width: 75 pixels (11.67)
 
-## Alignment
+### Alignment
 
-### Vertical Alignment
+#### Vertical Alignment
 
 - Middle Align: Default
 - Top Align: If there is wrapping text in any cell in the table
 - Bottom Align: !Never
 
-### Horizontal Alignment
+#### Horizontal Alignment
 
 - Avoid text that wraps unless unavoidable
 - Text should always be left-aligned
